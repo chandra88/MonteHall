@@ -12,7 +12,7 @@ hidden prizes while behind the other two doors have goats.
 A person is asked to choose the door. After he choosed the 
 door, he has chance to change his decision. What is his 
 chance of winning (i. e. getting prize) if he do not change 
-his decision vs if he change he decision.
+his decision vs if he change his decision.
 
 Here: p -> doors with prize
       g -> doors with goats	
