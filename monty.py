@@ -3,7 +3,7 @@ import os, sys, math, random
 
 '''---------------------------------------------------------
 Author:		Chandra Nepali
-Program:	Monty Hall Problem
+Program:	Monty Hall Problem Simulation
 Date:		June 5, 2015
 Contact:	coder5678@gmail.com
 
@@ -12,7 +12,8 @@ hidden prizes while behind the other two doors have goats.
 A person is asked to choose the door. After he choosed the 
 door, he has chance to change his decision. What is his 
 chance of winning (i. e. getting prize) if he do not change 
-his decision vs if he change his decision.
+his decision vs if he change his decision. Works with any 
+number of doors.
 
 Here: p -> doors with prize
       g -> doors with goats	
